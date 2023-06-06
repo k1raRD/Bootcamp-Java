@@ -1,38 +1,7 @@
-[
-  {
-    "category": "Cultura",
-    "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-    "options": [
-      "Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante",
-      "Cerveza, lima/limón y limon",
-      "Cerveza, sal, tabasco y lima/limón"
-    ],
-    "answer": 0,
-    "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
-  },
-  {
-    "category": "Deportes",
-    "question": "¿Cual es considerado el mejor jugador de la historia en la NBA?",
-    "options": [
-      "Lebron James",
-      "Michael Jordan",
-      "Kobe Bryant",
-      "Stephen Curry"
-    ],
-    "answer": 1,
-    "explanation": "Michael Jordan es considerado el mejor jugador de la historia, ya que el llevaba a los equipos en los que estaba a ganar."
-  },
-  {
-    "category": "Cultura",
-    "question": "¿Cual es la capital de la Republica Dominicana?",
-    "options": [
-      "Puerto principe",
-      "Buenos Aires",
-      "Santo domingo",
-      "Santiago"
-    ], 
-    "answer": 2,
-    "explanation": "Precisamente, Santo Domingo, es la actual capital de la República Dominicana. Este nombre tiene como origen una decisión. Concretamente la de Bartolomé Colón"
-  }
-
-]
+{
+  "category": "Cultura",
+  "question": "¿Cual es la capital de la Republica Dominicana?",
+  "options": ["Puerto principe", "Buenos Aires", "Santo domingo", "Santiago"],
+  "answer": 2,
+  "explanation": "Precisamente, Santo Domingo, es la actual capital de la República Dominicana. Este nombre tiene como origen una decisión. Concretamente la de Bartolomé Colón"
+}
